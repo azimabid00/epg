@@ -14,9 +14,9 @@ tvg-id formats : channelNo.provider
 
 Example: 
   - TV1 : 101.astro
-  - TV2 : 102.astro
+  - TV2 : 102.unifi
   and so on....
   
-For channel numbers can refer here:
-  Astro : https://content.astro.com.my/
-  Unifi : Can google / refer to the XML file.
+For channel numbers can refer here: </br>
+  - Astro : https://content.astro.com.my/ </br>
+  - Unifi : Can google / refer to the XML file.
