@@ -9,3 +9,14 @@ EPGs infos from the generation :  12hrs backward < EPG generation > 48hrs forwar
 Due to the EPGs are not generated using WebGrabPlus, the informations inside are not as extensive, but it works.
 
 Feel free to open issue if the EPGs generated are not working (No need to open issue for new channel request, it will be added automatically)
+
+tvg-id formats : channelNo.provider
+
+Example: 
+  - TV1 : 101.astro
+  - TV2 : 102.astro
+  and so on....
+  
+For channel numbers can refer here:
+  Astro : https://content.astro.com.my/
+  Unifi : Can google / refer to the XML file.
