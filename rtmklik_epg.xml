@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generated-by="azimabid00 on github - EPG XML Generator V1.0 - EPG Generated at 08-12-2022 01:26:35 AM">
+ <channel id="4.rtmklik">
+  <display-name lang="ms">Sukan RTM</display-name>
+  <icon src="https://rtm-images.glueapi.io/320x0/live_channel/sukan_Trans.png"/>
+  <url>https://rtmklik.rtm.gov.my/</url>
+ </channel>
+ <channel id="7.rtmklik">
+  <display-name lang="ms">Berita RTM</display-name>
+  <icon src="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.jpg"/>
+  <url>https://rtmklik.rtm.gov.my/</url>
+ </channel>
+ <channel id="8.rtmklik">
+  <display-name lang="ms">TV6</display-name>
+  <icon src="https://rtm-images.glueapi.io/320x0/live_channel/tv6_Trans.png"/>
+  <url>https://rtmklik.rtm.gov.my/</url>
+ </channel>
+ <programme start="20221207120000 +0800" stop="20221207123000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aspirasi Cub Prix 2022</title>
+  <desc lang="ms">Bersama pengacara Nasha Edzier untuk kita saksikan sorotan perlumbaan Cub Prix musim 2022</desc>
+ </programme>
+ <programme start="20221207123000 +0800" stop="20221207133000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Badminton Thomas Cup 2022 (Semi Final)</title>
+  <desc lang="ms">Ikuti siaran ulangan pertandingan Piala Thomas 2022 peringkat separuh akhir antara India menentang Denmark</desc>
+ </programme>
+ <programme start="20221207133000 +0800" stop="20221207163000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak FIFA World Cup Qatar 2022 antara Morocco menentang Spain</desc>
+ </programme>
+ <programme start="20221207163000 +0800" stop="20221207170000 +0800" channel="4.rtmklik">
+  <title lang="ms">Highlights FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan sorotan aksi-aksi menarik sepanjang berlangsungnya FIFA World Cup Qatar 2022</desc>
+ </programme>
+ <programme start="20221207170000 +0800" stop="20221207190000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022 (Group A)</title>
+  <desc lang="ms">Saksikan kembali perlawanan bola sepak FIFA World Cup Qatar 2022 (Group A) antara Ecuador menentang Senegal</desc>
+ </programme>
+ <programme start="20221207190000 +0800" stop="20221207193000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221207193000 +0800" stop="20221207200000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221207200000 +0800" stop="20221207220000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak FIFA World Cup Qatar 2022 antara Portugal menentang Switzerland</desc>
+ </programme>
+ <programme start="20221207220000 +0800" stop="20221207223000 +0800" channel="4.rtmklik">
+  <title lang="ms">FIFA World Cup Qatar Monthly</title>
+  <desc lang="ms">Menampilkan pelbagai aspek dan persiapan Qatar selaku tuan rumah bagi Kejohanan Piala Dunia FIFA Qatar 2022.</desc>
+ </programme>
+ <programme start="20221207223000 +0800" stop="20221207230000 +0800" channel="4.rtmklik">
+  <title lang="ms">Retro : Wira Sukan</title>
+  <desc lang="ms">Sebuah rancangan santai bersama para atlet untuk mengenali mereka dari sisi yang belum pernah kita ketahui.</desc>
+ </programme>
+ <programme start="20221207230000 +0800" stop="20221208013000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Bola Sepak TM Piala Malaysia 2022 (Akhir)</title>
+  <desc lang="ms">Saksikan kembali perlawanan akhir Bola Sepak TM Piala Malaysia antara Johor Darul Ta'zim menentang Selangor FC</desc>
+ </programme>
+ <programme start="20221208013000 +0800" stop="20221208020000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aspirasi Cub Prix 2022</title>
+  <desc lang="ms">Bersama pengacara Nasha Edzier untuk kita saksikan sorotan perlumbaan Cub Prix musim 2022</desc>
+ </programme>
+ <programme start="20221208020000 +0800" stop="20221208030000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Badminton Thomas Cup 2022 (Semi Final)</title>
+  <desc lang="ms">Ikuti siaran ulangan pertandingan Piala Thomas 2022 peringkat separuh akhir antara India menentang Denmark</desc>
+ </programme>
+ <programme start="20221208030000 +0800" stop="20221208033000 +0800" channel="4.rtmklik">
+  <title lang="ms">Refleksi Aktif</title>
+  <desc lang="ms">Bersama hos Fariha Razak menyelami latihan-latihan yang dilaksanakan oleh atlet-atlet berprestasi tinggi dalam meningkatkan prestasi mereka.</desc>
+ </programme>
+ <programme start="20221208033000 +0800" stop="20221208040000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Sorotan Harian Hoki Piala Sultan Johor 2022</title>
+  <desc lang="ms">Saksikan aksi-aksi menarik sepanjang berlangsungnya kejohanan Harian Hoki Piala Sultan Johor 2022</desc>
+ </programme>
+ <programme start="20221208040000 +0800" stop="20221208043000 +0800" channel="4.rtmklik">
+  <title lang="ms">FIFA World Cup Qatar Monthly</title>
+  <desc lang="ms">Menampilkan pelbagai aspek dan persiapan Qatar selaku tuan rumah bagi Kejohanan Piala Dunia FIFA Qatar 2022.</desc>
+ </programme>
+ <programme start="20221208043000 +0800" stop="20221208050000 +0800" channel="4.rtmklik">
+  <title lang="ms">Get Fit Get Focus</title>
+  <desc lang="ms">Bersama pengacara Soo Wincci dalam rancangan majalah kesihatan dan kecergasan berbahasa Inggeris yang akan berkongsi pelbagai tips daripada pakar-pakar kesihatan. </desc>
+ </programme>
+ <programme start="20221208050000 +0800" stop="20221208053000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kekal Sihat</title>
+  <desc lang="ms">Bersama hos Nizen Ayob berkongsi tips kekal sihat khas untk tontonan anda.</desc>
+ </programme>
+ <programme start="20221208053000 +0800" stop="20221208060000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221208060000 +0800" stop="20221208060500 +0800" channel="4.rtmklik">
+  <title lang="ms">Lagu Negaraku/Klip : Setia</title>
+  <desc lang="ms">Lagu Negaraku/Klip : Setia</desc>
+ </programme>
+ <programme start="20221208060500 +0800" stop="20221208070000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221208070000 +0800" stop="20221208073000 +0800" channel="4.rtmklik">
+  <title lang="ms">Dimensi Cergas</title>
+  <desc lang="ms">Dimensi Cergas episod ini memaparkan tentang senaman yang berkaitan Fitness &amp; Healthcare iaitu senaman gaya hidup sihat dan cergas.</desc>
+ </programme>
+ <programme start="20221208073000 +0800" stop="20221208080000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kekal Sihat</title>
+  <desc lang="ms">Bersama Nizen Ayob untuk mengetahui pelbagai tips dan cara-cara mengekalkan kesihatan daripada selebriti tempatan.</desc>
+ </programme>
+ <programme start="20221208080000 +0800" stop="20221208083000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221208083000 +0800" stop="20221208090000 +0800" channel="4.rtmklik">
+  <title lang="ms">Get Fit Get Focus</title>
+  <desc lang="ms">Bersama pengacara Soo Wincci dalam rancangan majalah kesihatan dan kecergasan berbahasa Inggeris yang akan berkongsi pelbagai tips daripada pakar-pakar kesihatan. </desc>
+ </programme>
+ <programme start="20221208090000 +0800" stop="20221208093000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Highlights FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan kembali sorotan aksi-aksi menarik sepanjang berlangsungnya FIFA World Cup Qatar 2022</desc>
+ </programme>
+ <programme start="20221208093000 +0800" stop="20221208100000 +0800" channel="4.rtmklik">
+  <title lang="ms">Jom Sihat Bro</title>
+  <desc lang="ms">Program kesihatan khusus untuk lelaki moden yang menampilkan pelbagai informasi kesihatan.</desc>
+ </programme>
+ <programme start="20221208100000 +0800" stop="20221208103000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Sorotan Harian Hoki Piala Sultan Johor 2022</title>
+  <desc lang="ms">Saksikan aksi-aksi menarik sepanjang berlangsungnya kejohanan Harian Hoki Piala Sultan Johor 2022</desc>
+ </programme>
+ <programme start="20221208103000 +0800" stop="20221208113000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aksi 2019</title>
+  <desc lang="ms">Sebuah rancangan yang memaparkan sukan aksi yang mencabar mental dan fizikal para peserta.</desc>
+ </programme>
+ <programme start="20221208113000 +0800" stop="20221208120000 +0800" channel="4.rtmklik">
+  <title lang="ms">Idola Bintang (Siri 3)</title>
+  <desc lang="ms">Kenali atlet-atlet Malaysia yang telah mengharumkan nama negara dalam Idola Bintang.</desc>
+ </programme>
+ <programme start="20221208120000 +0800" stop="20221208123000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aspirasi Cub Prix 2022</title>
+  <desc lang="ms">Bersama pengacara Nasha Edzier untuk kita saksikan sorotan perlumbaan Cub Prix musim 2022</desc>
+ </programme>
+ <programme start="20221208123000 +0800" stop="20221208140000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Badminton Thomas Cup 2022 (Semi Final)</title>
+  <desc lang="ms">Ikuti siaran ulangan pertandingan Piala Thomas 2022 peringkat separuh akhir antara India menentang Denmark</desc>
+ </programme>
+ <programme start="20221208140000 +0800" stop="20221208160000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022 (Group A)</title>
+  <desc lang="ms">Saksikan kembali perlawanan bola sepak FIFA World Cup Qatar 2022 (Group A) antara Netherlands  menentang Qatar</desc>
+ </programme>
+ <programme start="20221208160000 +0800" stop="20221208163000 +0800" channel="4.rtmklik">
+  <title lang="ms">Extreme E : Electric Odyssey 2022</title>
+  <desc lang="ms">Sebuah rancangan yang memaparkan kelebihan jentera bermotor berkuasa tinggi yang menggunakan kuasa elektrik dan teknologi terkini. </desc>
+ </programme>
+ <programme start="20221208163000 +0800" stop="20221208170000 +0800" channel="4.rtmklik">
+  <title lang="ms">Highlights FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan sorotan aksi-aksi menarik sepanjang berlangsungnya FIFA World Cup Qatar 2022</desc>
+ </programme>
+ <programme start="20221208170000 +0800" stop="20221208190000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022 (Group D)</title>
+  <desc lang="ms">Saksikan kembali perlawanan bola sepak FIFA World Cup Qatar 2022 (Group D) - Australia VS Denmark</desc>
+ </programme>
+ <programme start="20221208190000 +0800" stop="20221208193000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221208193000 +0800" stop="20221208200000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221208200000 +0800" stop="20221208220000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022 (Group F)</title>
+  <desc lang="ms">Saksikan kembali perlawanan bola sepak FIFA World Cup Qatar 2022 (Group F) antara Canada menentang Morocco</desc>
+ </programme>
+ <programme start="20221208220000 +0800" stop="20221208223000 +0800" channel="4.rtmklik">
+  <title lang="ms">FIFA World Cup Qatar Monthly</title>
+  <desc lang="ms">Menampilkan pelbagai aspek dan persiapan Qatar selaku tuan rumah bagi Kejohanan Piala Dunia FIFA Qatar 2022.</desc>
+ </programme>
+ <programme start="20221208223000 +0800" stop="20221208230000 +0800" channel="4.rtmklik">
+  <title lang="ms">Retro : 3 2 1 Mula</title>
+  <desc lang="ms">Saksikan paparan menarik, rangkuman sukan rakyat dan sukan lasak.</desc>
+ </programme>
+ <programme start="20221208230000 +0800" stop="20221209010000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Bola Sepak Piala FA 2022 - Kuala Lumpur City FC VS Langkawi City FC</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak Piala FA 2022 antara Kuala Lumpur City FC menentang Langkawi City FC</desc>
+ </programme>
+ <programme start="20221209010000 +0800" stop="20221209013000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221209013000 +0800" stop="20221209020000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aspirasi Cub Prix 2022</title>
+  <desc lang="ms">Bersama pengacara Nasha Edzier untuk kita saksikan sorotan perlumbaan Cub Prix musim 2022</desc>
+ </programme>
+ <programme start="20221209020000 +0800" stop="20221209033000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Badminton Thomas Cup 2022 (Semi Final)</title>
+  <desc lang="ms">Ikuti siaran ulangan pertandingan Piala Thomas 2022 peringkat separuh akhir antara India menentang Denmark</desc>
+ </programme>
+ <programme start="20221209033000 +0800" stop="20221209040000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Sorotan Harian Hoki Piala Sultan Johor 2022</title>
+  <desc lang="ms">Saksikan aksi-aksi menarik sepanjang berlangsungnya kejohanan Harian Hoki Piala Sultan Johor 2022</desc>
+ </programme>
+ <programme start="20221209040000 +0800" stop="20221209043000 +0800" channel="4.rtmklik">
+  <title lang="ms">FIFA World Cup Qatar Monthly</title>
+  <desc lang="ms">Menampilkan pelbagai aspek dan persiapan Qatar selaku tuan rumah bagi Kejohanan Piala Dunia FIFA Qatar 2022.</desc>
+ </programme>
+ <programme start="20221209043000 +0800" stop="20221209050000 +0800" channel="4.rtmklik">
+  <title lang="ms">Get Fit Get Focus</title>
+  <desc lang="ms">Bersama pengacara Soo Wincci dalam rancangan majalah kesihatan dan kecergasan berbahasa Inggeris yang akan berkongsi pelbagai tips daripada pakar-pakar kesihatan. </desc>
+ </programme>
+ <programme start="20221209050000 +0800" stop="20221209053000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kekal Sihat</title>
+  <desc lang="ms">Bersama Nizen Ayob untuk mengetahui pelbagai tips dan cara-cara mengekalkan kesihatan daripada selebriti tempatan.</desc>
+ </programme>
+ <programme start="20221209053000 +0800" stop="20221209060000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221209060000 +0800" stop="20221209060500 +0800" channel="4.rtmklik">
+  <title lang="ms">Lagu Negaraku/Klip : Setia</title>
+  <desc lang="ms">Lagu Negaraku/Klip : Setia</desc>
+ </programme>
+ <programme start="20221209060500 +0800" stop="20221209070000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221209070000 +0800" stop="20221209073000 +0800" channel="4.rtmklik">
+  <title lang="ms">Dimensi Cergas</title>
+  <desc lang="ms">Dimensi Cergas memaparkan kaedah melakukan senaman yang betul dan impaknya terhadap tubuh manusia.</desc>
+ </programme>
+ <programme start="20221209073000 +0800" stop="20221209080000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kekal Sihat</title>
+  <desc lang="ms">Bersama Nizen Ayob untuk mengetahui pelbagai tips dan cara-cara mengekalkan kesihatan daripada selebriti tempatan.</desc>
+ </programme>
+ <programme start="20221209080000 +0800" stop="20221209083000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221209083000 +0800" stop="20221209090000 +0800" channel="4.rtmklik">
+  <title lang="ms">Get Fit Get Focus</title>
+  <desc lang="ms">Bersama pengacara Soo Wincci dalam rancangan majalah kesihatan dan kecergasan berbahasa Inggeris yang akan berkongsi pelbagai tips daripada pakar-pakar kesihatan. </desc>
+ </programme>
+ <programme start="20221209090000 +0800" stop="20221209093000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Highlights FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan kembali sorotan aksi-aksi menarik sepanjang berlangsungnya FIFA World Cup Qatar 2022</desc>
+ </programme>
+ <programme start="20221209093000 +0800" stop="20221209100000 +0800" channel="4.rtmklik">
+  <title lang="ms">Jom Sihat Bro</title>
+  <desc lang="ms">Program kesihatan khusus untuk lelaki moden yang menampilkan pelbagai informasi kesihatan.</desc>
+ </programme>
+ <programme start="20221209100000 +0800" stop="20221209103000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Sorotan Harian Hoki Piala Sultan Johor 2022</title>
+  <desc lang="ms">Saksikan aksi-aksi menarik sepanjang berlangsungnya kejohanan Harian Hoki Piala Sultan Johor 2022</desc>
+ </programme>
+ <programme start="20221209103000 +0800" stop="20221209113000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aksi 2019</title>
+  <desc lang="ms">Sebuah rancangan yang memaparkan sukan aksi yang mencabar mental dan fizikal para peserta.</desc>
+ </programme>
+ <programme start="20221209113000 +0800" stop="20221209120000 +0800" channel="4.rtmklik">
+  <title lang="ms">Idola Bintang (Siri 3)</title>
+  <desc lang="ms">Kenali atlet-atlet Malaysia yang telah mengharumkan nama negara dalam Idola Bintang.</desc>
+ </programme>
+ <programme start="20221209120000 +0800" stop="20221209123000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aspirasi Cub Prix 2022</title>
+  <desc lang="ms">Bersama pengacara Nasha Edzier untuk kita saksikan sorotan perlumbaan Cub Prix musim 2022</desc>
+ </programme>
+ <programme start="20221209123000 +0800" stop="20221209140000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Badminton Thomas Cup 2022 (Semi Final)</title>
+  <desc lang="ms">Ikuti siaran ulangan pertandingan Piala Thomas 2022 peringkat separuh akhir antara India menentang Denmark</desc>
+ </programme>
+ <programme start="20221209140000 +0800" stop="20221209160000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022 (Group G)</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak FIFA World Cup Qatar 2022 (Group G) - Cameroon VS Brazil</desc>
+ </programme>
+ <programme start="20221209160000 +0800" stop="20221209163000 +0800" channel="4.rtmklik">
+  <title lang="ms">Retro : Aksi</title>
+  <desc lang="ms">Rancangan sukan menarik untuk tontonan anda seisi keluarga</desc>
+ </programme>
+ <programme start="20221209163000 +0800" stop="20221209170000 +0800" channel="4.rtmklik">
+  <title lang="ms">Trek Kembara</title>
+  <desc lang="ms">Jom! Rasai keterujaan melakukan pelbagai sukan lasak dan pastinya ekstrem bersama pengacara Siti Nursara, atlet memanjat tembok dan jurulatih scuba. Setiap episod, penonton akan dibawa ke pelbagai lokasi sukan riadah menarik dan pastinya dapat mempromosi aktiviti pelancongan rekreasi untuk semua lapisan masyarakat.</desc>
+ </programme>
+ <programme start="20221209170000 +0800" stop="20221209190000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022 (Group B)</title>
+  <desc lang="ms">Saksikan kembali perlawanan bola sepak FIFA World Cup Qatar 2022 (Group B) </desc>
+ </programme>
+ <programme start="20221209190000 +0800" stop="20221209193000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221209193000 +0800" stop="20221209200000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221209200000 +0800" stop="20221209220000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022 (Group D)</title>
+  <desc lang="ms">Saksikan kembali perlawanan bola sepak FIFA World Cup Qatar 2022 (Group D) </desc>
+ </programme>
+ <programme start="20221209220000 +0800" stop="20221209223000 +0800" channel="4.rtmklik">
+  <title lang="ms">FIFA World Cup Qatar Monthly</title>
+  <desc lang="ms">Menampilkan pelbagai aspek dan persiapan Qatar selaku tuan rumah bagi Kejohanan Piala Dunia FIFA Qatar 2022.</desc>
+ </programme>
+ <programme start="20221209223000 +0800" stop="20221209230000 +0800" channel="4.rtmklik">
+  <title lang="ms">RETRO : Podium Gemilang</title>
+  <desc lang="ms">Sebuah rancangan santai bersama para atlet untuk mengenali mereka dari sisi yang belum pernah kita ketahui.</desc>
+ </programme>
+ <programme start="20221209230000 +0800" stop="20221210010000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Bola Sepak Piala FA 2022</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak Piala FA 2022 antara PDRM FC menentang Perlis United FC</desc>
+ </programme>
+ <programme start="20221210010000 +0800" stop="20221210013000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221210013000 +0800" stop="20221210020000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aspirasi Cub Prix 2022</title>
+  <desc lang="ms">Bersama pengacara Nasha Edzier untuk kita saksikan sorotan perlumbaan Cub Prix musim 2022</desc>
+ </programme>
+ <programme start="20221210020000 +0800" stop="20221210033000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Badminton Thomas Cup 2022 (Semi Final)</title>
+  <desc lang="ms">Ikuti siaran ulangan pertandingan Piala Thomas 2022 peringkat separuh akhir antara India menentang Denmark</desc>
+ </programme>
+ <programme start="20221210033000 +0800" stop="20221210040000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Sorotan Harian Hoki Piala Sultan Johor 2022</title>
+  <desc lang="ms">Saksikan aksi-aksi menarik sepanjang berlangsungnya kejohanan Harian Hoki Piala Sultan Johor 2022</desc>
+ </programme>
+ <programme start="20221210040000 +0800" stop="20221210043000 +0800" channel="4.rtmklik">
+  <title lang="ms">FIFA World Cup Qatar Monthly</title>
+  <desc lang="ms">Menampilkan pelbagai aspek dan persiapan Qatar selaku tuan rumah bagi Kejohanan Piala Dunia FIFA Qatar 2022.</desc>
+ </programme>
+ <programme start="20221210043000 +0800" stop="20221210050000 +0800" channel="4.rtmklik">
+  <title lang="ms">Get Fit Get Focus</title>
+  <desc lang="ms">Bersama pengacara Soo Wincci dalam rancangan majalah kesihatan dan kecergasan berbahasa Inggeris yang akan berkongsi pelbagai tips daripada pakar-pakar kesihatan. </desc>
+ </programme>
+ <programme start="20221210050000 +0800" stop="20221210053000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kekal Sihat</title>
+  <desc lang="ms">Bersama Nizen Ayob untuk mengetahui pelbagai tips dan cara-cara mengekalkan kesihatan daripada selebriti tempatan.</desc>
+ </programme>
+ <programme start="20221210053000 +0800" stop="20221210060000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221210060000 +0800" stop="20221210060500 +0800" channel="4.rtmklik">
+  <title lang="ms">Lagu Negaraku/Klip : Setia</title>
+  <desc lang="ms">Lagu Negaraku/Klip : Setia</desc>
+ </programme>
+ <programme start="20221210060500 +0800" stop="20221210070000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221210070000 +0800" stop="20221210073000 +0800" channel="4.rtmklik">
+  <title lang="ms">Dimensi Cergas</title>
+  <desc lang="ms">Dimensi Cergas memaparkan kaedah melakukan senaman yang betul dan impaknya terhadap tubuh manusia.</desc>
+ </programme>
+ <programme start="20221210073000 +0800" stop="20221210080000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kekal Sihat</title>
+  <desc lang="ms">Bersama Nizen Ayob untuk mengetahui pelbagai tips dan cara-cara mengekalkan kesihatan daripada selebriti tempatan.</desc>
+ </programme>
+ <programme start="20221210080000 +0800" stop="20221210083000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221210083000 +0800" stop="20221210090000 +0800" channel="4.rtmklik">
+  <title lang="ms">Get Fit Get Focus</title>
+  <desc lang="ms">Bersama pengacara Soo Wincci dalam rancangan majalah kesihatan dan kecergasan berbahasa Inggeris yang akan berkongsi pelbagai tips daripada pakar-pakar kesihatan. </desc>
+ </programme>
+ <programme start="20221210090000 +0800" stop="20221210093000 +0800" channel="4.rtmklik">
+  <title lang="ms">Fit X</title>
+  <desc lang="ms">Saksikan pengacara, Zaween berkongsi tentang isu cross-fix bagi wanita bersama Jonathan Wong, Aishah Sinclair serta tip pengiraan kalori bersama Kamarul Izzwan.</desc>
+ </programme>
+ <programme start="20221210093000 +0800" stop="20221210100000 +0800" channel="4.rtmklik">
+  <title lang="ms">Jom Sihat Bro</title>
+  <desc lang="ms">Program kesihatan khusus untuk lelaki moden yang menampilkan pelbagai informasi kesihatan.</desc>
+ </programme>
+ <programme start="20221210100000 +0800" stop="20221210103000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Sorotan Harian Hoki Piala Sultan Johor 2022</title>
+  <desc lang="ms">Saksikan aksi-aksi menarik sepanjang berlangsungnya kejohanan Harian Hoki Piala Sultan Johor 2022</desc>
+ </programme>
+ <programme start="20221210103000 +0800" stop="20221210113000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aksi 2019</title>
+  <desc lang="ms">Sebuah rancangan yang memaparkan sukan aksi yang mencabar mental dan fizikal para peserta.</desc>
+ </programme>
+ <programme start="20221210113000 +0800" stop="20221210120000 +0800" channel="4.rtmklik">
+  <title lang="ms">Idola Bintang (Siri 3)</title>
+  <desc lang="ms">Kenali atlet-atlet Malaysia yang telah mengharumkan nama negara dalam Idola Bintang.</desc>
+ </programme>
+ <programme start="20221210120000 +0800" stop="20221210123000 +0800" channel="4.rtmklik">
+  <title lang="ms">Aspirasi Cub Prix 2022</title>
+  <desc lang="ms">Bersama pengacara Nasha Edzier untuk kita saksikan sorotan perlumbaan Cub Prix musim 2022</desc>
+ </programme>
+ <programme start="20221210123000 +0800" stop="20221210133000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Badminton Thomas Cup 2022 (Semi Final)</title>
+  <desc lang="ms">Ikuti siaran ulangan pertandingan Piala Thomas 2022 peringkat separuh akhir antara India menentang Denmark</desc>
+ </programme>
+ <programme start="20221210133000 +0800" stop="20221210140000 +0800" channel="4.rtmklik">
+  <title lang="ms">Refleksi Aktif</title>
+  <desc lang="ms">Bersama hos Fariha Razak menyelami latihan-latihan yang dilaksanakan oleh atlet-atlet berprestasi tinggi dalam meningkatkan prestasi mereka.</desc>
+ </programme>
+ <programme start="20221210140000 +0800" stop="20221210160000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak FIFA World Cup Qatar 2022 (Suku Akhir 1) antara Croatia menentang Brazil</desc>
+ </programme>
+ <programme start="20221210160000 +0800" stop="20221210163000 +0800" channel="4.rtmklik">
+  <title lang="ms">Retro : Aksi</title>
+  <desc lang="ms">Rancangan sukan menarik untuk tontonan anda seisi keluarga</desc>
+ </programme>
+ <programme start="20221210163000 +0800" stop="20221210170000 +0800" channel="4.rtmklik">
+  <title lang="ms">Highlights FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan sorotan aksi-aksi menarik sepanjang berlangsungnya FIFA World Cup Qatar 2022</desc>
+ </programme>
+ <programme start="20221210170000 +0800" stop="20221210190000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak FIFA World Cup Qatar 2022 </desc>
+ </programme>
+ <programme start="20221210190000 +0800" stop="20221210193000 +0800" channel="4.rtmklik">
+  <title lang="ms">Kapsul Sukan RTM</title>
+  <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+ </programme>
+ <programme start="20221210193000 +0800" stop="20221210200000 +0800" channel="4.rtmklik">
+  <title lang="ms">Sports Max 2022</title>
+  <desc lang="ms">Acara sukan yang melibatkan aktiviti sukan di Asia Pasific Broadcasting Union 2022</desc>
+ </programme>
+ <programme start="20221210200000 +0800" stop="20221210220000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : FIFA World Cup Qatar 2022</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak FIFA World Cup Qatar 2022 (Suku Akhir 2) antara Netherlands menentang Argentina</desc>
+ </programme>
+ <programme start="20221210220000 +0800" stop="20221210223000 +0800" channel="4.rtmklik">
+  <title lang="ms">FIFA World Cup Qatar Monthly</title>
+  <desc lang="ms">Menampilkan pelbagai aspek dan persiapan Qatar selaku tuan rumah bagi Kejohanan Piala Dunia FIFA Qatar 2022.</desc>
+ </programme>
+ <programme start="20221210223000 +0800" stop="20221210230000 +0800" channel="4.rtmklik">
+  <title lang="ms">Retro : Wira Sukan</title>
+  <desc lang="ms">Sebuah rancangan santai bersama para atlet untuk mengenali mereka dari sisi yang belum pernah kita ketahui.</desc>
+ </programme>
+ <programme start="20221210230000 +0800" stop="20221211010000 +0800" channel="4.rtmklik">
+  <title lang="ms">Siaran Ulangan : Bola Sepak Piala FA 2022</title>
+  <desc lang="ms">Saksikan kembali perlawanan Bola Sepak Piala FA 2022 antara Perak FC menentang Penang FC</desc>
+ </programme>
+ <programme start="20221207120000 +0800" stop="20221207122000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Mandarin</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.
+</desc>
+ </programme>
+ <programme start="20221207122000 +0800" stop="20221207123000 +0800" channel="7.rtmklik">
+  <title lang="ms">Galeri Nasional Mandarin</title>
+  <desc lang="ms">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.</desc>
+ </programme>
+ <programme start="20221207123000 +0800" stop="20221207130000 +0800" channel="7.rtmklik">
+  <title lang="ms">Updates@Noon</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris.
+</desc>
+ </programme>
+ <programme start="20221207130000 +0800" stop="20221207133000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tengah Hari</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.
+</desc>
+ </programme>
+ <programme start="20221207133000 +0800" stop="20221207140000 +0800" channel="7.rtmklik">
+  <title lang="ms">Bicara Kanser</title>
+  <desc lang="ms">Bicara Kanser memaparkan tentang jenis-jenis kanser, diagnosis dan perawatan melalui tiga segmen.</desc>
+ </programme>
+ <programme start="20221207140000 +0800" stop="20221207143000 +0800" channel="7.rtmklik">
+  <title lang="ms">Biz Malaysia</title>
+  <desc lang="ms">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+ </programme>
+ <programme start="20221207143000 +0800" stop="20221207150000 +0800" channel="7.rtmklik">
+  <title lang="ms">Seleksi Konti Radio</title>
+  <desc lang="ms">Membincangkan isu-isu semasa yang bersiaran dari konti radio di setiap negeri.</desc>
+ </programme>
+ <programme start="20221207150000 +0800" stop="20221207150500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Semasa</title>
+  <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.
+</desc>
+ </programme>
+ <programme start="20221207150500 +0800" stop="20221207153000 +0800" channel="7.rtmklik">
+  <title lang="ms">#KongsiKembaraku</title>
+  <desc lang="ms">Jom mengembara ke tempat-tempat menarik di sekitar lokasi pilihan dalam program #KongsiKembaraku.</desc>
+ </programme>
+ <programme start="20221207153000 +0800" stop="20221207160000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pastikan Sahih</title>
+  <desc lang="ms">Memaparkan berita yang menangkis berita palsu dan viral (Fake News).</desc>
+ </programme>
+ <programme start="20221207160000 +0800" stop="20221207160500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Semasa</title>
+  <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.
+</desc>
+ </programme>
+ <programme start="20221207160500 +0800" stop="20221207170000 +0800" channel="7.rtmklik">
+  <title lang="ms">Bicara DR</title>
+  <desc lang="ms">Saksikan perkongsian tentang Kesihatan Mental &amp; Psikologi Kanak-Kanak bersama Noor Suraya Muhamad (Ketua Unit Psikologi Kaunseling, Hospital Tuanku Ja’afar Seremban) dan Dr. Ramli Mohd Ali (Pakar Perunding Psikiatri Kanak-kanak &amp; Remaja, Hospital Tunku Azizah Kuala Lumpur).</desc>
+ </programme>
+ <programme start="20221207170000 +0800" stop="20221207181500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Wilayah</title>
+  <desc lang="ms">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.
+</desc>
+ </programme>
+ <programme start="20221207181500 +0800" stop="20221207183000 +0800" channel="7.rtmklik">
+  <title lang="ms">#landskapbajet</title>
+  <desc lang="ms">#landskapbajet memaparkan pelbagai idea dan inspirasi landskap halaman rumath pada bajet yang rendah berserta inspirasi susunatur kepada penonton.</desc>
+ </programme>
+ <programme start="20221207183000 +0800" stop="20221207184500 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Iban</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Iban.
+</desc>
+ </programme>
+ <programme start="20221207184500 +0800" stop="20221207190000 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Dusun</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.
+</desc>
+ </programme>
+ <programme start="20221207190000 +0800" stop="20221207193000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Mandarin</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.
+</desc>
+ </programme>
+ <programme start="20221207193000 +0800" stop="20221207200000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tamil </title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.
+</desc>
+ </programme>
+ <programme start="20221207200000 +0800" stop="20221207210000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Perdana</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.
+</desc>
+ </programme>
+ <programme start="20221207210000 +0800" stop="20221207220000 +0800" channel="7.rtmklik">
+  <title lang="ms">Bicara DR</title>
+  <desc lang="ms">Program bicarawara bertema Bicara DR bersama tetamu undangan dan membincangkan isu sains dan teknologi sebagai topik pilihan.</desc>
+ </programme>
+ <programme start="20221207220000 +0800" stop="20221207223000 +0800" channel="7.rtmklik">
+  <title lang="ms">News@10</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris termasuk berita perniagaan dan korporat.
+</desc>
+ </programme>
+ <programme start="20221207223000 +0800" stop="20221207230000 +0800" channel="7.rtmklik">
+  <title lang="ms">Inovasi Untuk Alam</title>
+  <desc lang="ms">Bersama hos Shazwan Mohamad Shakeri melihat tenaga pakar tempatan membangunkan inovasi demi menjaga kelestarian alam dan pembangunan teknologi hijau.</desc>
+ </programme>
+ <programme start="20221207230000 +0800" stop="20221207233000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Dunia</title>
+  <desc lang="ms">Memaparkan perkembangan berita luar negara.
+</desc>
+ </programme>
+ <programme start="20221207233000 +0800" stop="20221208000000 +0800" channel="7.rtmklik">
+  <title lang="ms">Cerita Samudera</title>
+  <desc lang="ms">Cerita Samudera membawakan cerita-cerita alam yang jarang sekali menjadi perhatian atau kurang dikenali umum.</desc>
+ </programme>
+ <programme start="20221208000000 +0800" stop="20221208003000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tengah Malam</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara.
+</desc>
+ </programme>
+ <programme start="20221208003000 +0800" stop="20221208010000 +0800" channel="7.rtmklik">
+  <title lang="ms">Biz Malaysia</title>
+  <desc lang="ms">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+ </programme>
+ <programme start="20221208010000 +0800" stop="20221208013000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pastikan Sahih</title>
+  <desc lang="ms">Memaparkan berita yang menangkis berita palsu dan viral (Fake News).</desc>
+ </programme>
+ <programme start="20221208013000 +0800" stop="20221208020000 +0800" channel="7.rtmklik">
+  <title lang="ms">Solusi Lestari</title>
+  <desc lang="ms">Solusi Lestari adalah sebuah program yang memaparkan inovasi serta teknologi baharu yang diaplikasikan di Malaysia sebagai penyelesaian kepada ancaman masalah alam sekitar dan bencana.</desc>
+ </programme>
+ <programme start="20221208020000 +0800" stop="20221208023000 +0800" channel="7.rtmklik">
+  <title lang="ms">Etnik Kita</title>
+  <desc lang="ms">Mengenali kepelbagaian etnik di Malaysia yang unik dan menarik. </desc>
+ </programme>
+ <programme start="20221208023000 +0800" stop="20221208030000 +0800" channel="7.rtmklik">
+  <title lang="ms">Zoom In</title>
+  <desc lang="ms">Zoom In adalah merupakan dokumentari yang membawakan pembuatan barangan harian secara dekat.</desc>
+ </programme>
+ <programme start="20221208030000 +0800" stop="20221208033000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pantau</title>
+  <desc lang="ms">Ketahui dengan lanjut tentang teknologi telekomunikasi maklumat atau ancaman siber bersama Yusmal Ghazali.</desc>
+ </programme>
+ <programme start="20221208033000 +0800" stop="20221208040000 +0800" channel="7.rtmklik">
+  <title lang="ms">CEO NEO</title>
+  <desc lang="ms">CEO NEO membawakan kisah getir usahawan belia tempatan yang juga Ketua Pegawai Eksekutif (CEO) menerajui bisnes mereka hingga berjaya.</desc>
+ </programme>
+ <programme start="20221208040000 +0800" stop="20221208043000 +0800" channel="7.rtmklik">
+  <title lang="ms">Travelog Dikir</title>
+  <desc lang="ms">Jom mengembara bersama Zul Afkar bersama kumpulan dikir beliau dalam mencari seni-seni tradisi yang terdapat di seluruh Malaysia.</desc>
+ </programme>
+ <programme start="20221208043000 +0800" stop="20221208053000 +0800" channel="7.rtmklik">
+  <title lang="ms">Renjer</title>
+  <desc lang="ms">Dokumentari bersiri Renjer ini, mengisahkan tentang hutan hujan tropika yang terdapat di negara ini. Setiap episod memberi fokus kepada sebuah tempat yang berlainan, dimana terdapat hutan hujan tropika dan juga memberi fokus kepada pihak renjer yang bertanggungjawab melaksana dan memantau kawasan rizab hutan hujan tropika ini.</desc>
+ </programme>
+ <programme start="20221208053000 +0800" stop="20221208060000 +0800" channel="7.rtmklik">
+  <title lang="ms">Psikosis</title>
+  <desc lang="ms">Sebuah dokumentari santai berkaitan isu kesihatan mental yang akan menemu bual pakar, pesakit dan keluarga berbeza setiap minggu.</desc>
+ </programme>
+ <programme start="20221208060000 +0800" stop="20221208063000 +0800" channel="7.rtmklik">
+  <title lang="ms">Zoom In</title>
+  <desc lang="ms">Zoom In adalah merupakan dokumentari yang membawakan pembuatan barangan harian secara dekat.</desc>
+ </programme>
+ <programme start="20221208063000 +0800" stop="20221208070000 +0800" channel="7.rtmklik">
+  <title lang="ms">Minda Inovatif</title>
+  <desc lang="ms">Minda Inovatif memaparkan tentang idea, inovasi dan invensi anak tempatan sambil mempelajari fungsi dan tujuan inovasi tersebut.</desc>
+ </programme>
+ <programme start="20221208070000 +0800" stop="20221208073000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara.
+</desc>
+ </programme>
+ <programme start="20221208073000 +0800" stop="20221208074500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi Sabah</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah
+</desc>
+ </programme>
+ <programme start="20221208074500 +0800" stop="20221208080000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi Sarawak</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sarawak
+</desc>
+ </programme>
+ <programme start="20221208080000 +0800" stop="20221208100000 +0800" channel="7.rtmklik">
+  <title lang="ms">Selamat Pagi Malaysia </title>
+  <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).
+</desc>
+ </programme>
+ <programme start="20221208100000 +0800" stop="20221208100500 +0800" channel="7.rtmklik">
+  <title lang="ms">Contynews</title>
+  <desc lang="ms">Saksikan berita sahih dari konti radio yang bersiaran secara langsung ke kaca TV anda melalui slot Conty News.</desc>
+ </programme>
+ <programme start="20221208100500 +0800" stop="20221208110000 +0800" channel="7.rtmklik">
+  <title lang="ms">Selamat Pagi Malaysia </title>
+  <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).
+</desc>
+ </programme>
+ <programme start="20221208110000 +0800" stop="20221208110500 +0800" channel="7.rtmklik">
+  <title lang="ms">Contynews</title>
+  <desc lang="ms">Saksikan berita sahih dari konti radio yang bersiaran secara langsung ke kaca TV anda melalui slot Conty News.</desc>
+ </programme>
+ <programme start="20221208110500 +0800" stop="20221208113000 +0800" channel="7.rtmklik">
+  <title lang="ms">Salah Atau Tidak</title>
+  <desc lang="ms">Salah Atau Tidak merungkai pelbagai kekeliruan berkaitan peruntukan undang-undang dalam kehidupan seharian manusia.</desc>
+ </programme>
+ <programme start="20221208113000 +0800" stop="20221208120000 +0800" channel="7.rtmklik">
+  <title lang="ms">Terukir Di Langit</title>
+  <desc lang="ms">Ikuti Dr Hafiz mencerap dan mengkaji fenomena astronomi di pelbagai lokasi bersama pakar dalam program Terukir di Langit.</desc>
+ </programme>
+ <programme start="20221208120000 +0800" stop="20221208122000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Mandarin</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.
+</desc>
+ </programme>
+ <programme start="20221208122000 +0800" stop="20221208123000 +0800" channel="7.rtmklik">
+  <title lang="ms">Galeri Nasional Mandarin</title>
+  <desc lang="ms">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.</desc>
+ </programme>
+ <programme start="20221208123000 +0800" stop="20221208130000 +0800" channel="7.rtmklik">
+  <title lang="ms">Updates@Noon</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris.
+</desc>
+ </programme>
+ <programme start="20221208130000 +0800" stop="20221208133000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tengah Hari</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.
+</desc>
+ </programme>
+ <programme start="20221208133000 +0800" stop="20221208140000 +0800" channel="7.rtmklik">
+  <title lang="ms">Jarang Jumpa Namun Ada</title>
+  <desc lang="ms">Bersama hos Nida Hanafi menjejak penyakit yang jarang didengari dan informasi tentangnya dalam program Jarang Jumpa Namun Ada.</desc>
+ </programme>
+ <programme start="20221208140000 +0800" stop="20221208143000 +0800" channel="7.rtmklik">
+  <title lang="ms">Biz Malaysia</title>
+  <desc lang="ms">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+ </programme>
+ <programme start="20221208143000 +0800" stop="20221208150000 +0800" channel="7.rtmklik">
+  <title lang="ms">Seleksi Konti Radio</title>
+  <desc lang="ms">Membincangkan isu-isu semasa yang bersiaran dari konti radio di setiap negeri.</desc>
+ </programme>
+ <programme start="20221208150000 +0800" stop="20221208150500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Semasa</title>
+  <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.
+</desc>
+ </programme>
+ <programme start="20221208150500 +0800" stop="20221208153000 +0800" channel="7.rtmklik">
+  <title lang="ms">Travelog Dikir</title>
+  <desc lang="ms">Jom mengembara bersama Zul Afkar bersama kumpulan dikir beliau dalam mencari seni-seni tradisi yang terdapat di seluruh Malaysia.</desc>
+ </programme>
+ <programme start="20221208153000 +0800" stop="20221208160000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pastikan Sahih</title>
+  <desc lang="ms">Memaparkan berita yang menangkis berita palsu dan viral (Fake News).</desc>
+ </programme>
+ <programme start="20221208160000 +0800" stop="20221208160500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Semasa</title>
+  <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.
+</desc>
+ </programme>
+ <programme start="20221208160500 +0800" stop="20221208170000 +0800" channel="7.rtmklik">
+  <title lang="ms">The Outlook</title>
+  <desc lang="ms">The Outlook brings you discussions of economics and its impact in the ever-changing World. Hosted by Shareeta Selvaraj.</desc>
+ </programme>
+ <programme start="20221208170000 +0800" stop="20221208180000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Wilayah</title>
+  <desc lang="ms">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.
+</desc>
+ </programme>
+ <programme start="20221208180000 +0800" stop="20221208183000 +0800" channel="7.rtmklik">
+  <title lang="ms">Warna Warni Nutrisi</title>
+  <desc lang="ms">Siapa sangka dalam setiap warna sayur-sayuran dan buah-buahan mengandungi nutrisi dan khasiat berbeza. Saksikan Warna-Warni Nutrisi membongkar khasiat di sebalik warna buah-buahan dan sayur-sayuran.</desc>
+ </programme>
+ <programme start="20221208183000 +0800" stop="20221208184500 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Iban</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Iban.
+</desc>
+ </programme>
+ <programme start="20221208184500 +0800" stop="20221208190000 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Dusun</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.
+</desc>
+ </programme>
+ <programme start="20221208190000 +0800" stop="20221208193000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Mandarin</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.
+</desc>
+ </programme>
+ <programme start="20221208193000 +0800" stop="20221208200000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tamil </title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.
+</desc>
+ </programme>
+ <programme start="20221208200000 +0800" stop="20221208210000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Perdana</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.
+</desc>
+ </programme>
+ <programme start="20221208210000 +0800" stop="20221208220000 +0800" channel="7.rtmklik">
+  <title lang="ms">Townhall Belia</title>
+  <desc lang="ms">Townhall belia membawakan perbincangan topik-topik menarik di kalangan belia bersama perantara, Wan Kamaruddin.</desc>
+ </programme>
+ <programme start="20221208220000 +0800" stop="20221208223000 +0800" channel="7.rtmklik">
+  <title lang="ms">News@10</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris termasuk berita perniagaan dan korporat.
+</desc>
+ </programme>
+ <programme start="20221208223000 +0800" stop="20221208230000 +0800" channel="7.rtmklik">
+  <title lang="ms">Advokasi Alam</title>
+  <desc lang="ms">Ikuti pengembaraan Oma (Datin Norelan Ismail), bersama cucunya, Dina Melan menjelajah ke seluruh Negara dan bertemu rakan-rakan aktivis pecinta alam dalam rancangan Advokasi Alam.</desc>
+ </programme>
+ <programme start="20221208230000 +0800" stop="20221208233000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Dunia</title>
+  <desc lang="ms">Memaparkan perkembangan berita luar negara.
+</desc>
+ </programme>
+ <programme start="20221208233000 +0800" stop="20221209000000 +0800" channel="7.rtmklik">
+  <title lang="ms">Legasi Maritim Melayu</title>
+  <desc lang="ms">Pelajari ilmu pelayaran dan ikuti pengembaraan nakhoda Maritim Melayu ke seluruh samudera dalam rancangan Legasi Maritim Melayu.</desc>
+ </programme>
+ <programme start="20221209000000 +0800" stop="20221209003000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tengah Malam</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara.
+</desc>
+ </programme>
+ <programme start="20221209003000 +0800" stop="20221209010000 +0800" channel="7.rtmklik">
+  <title lang="ms">Biz Malaysia</title>
+  <desc lang="ms">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+ </programme>
+ <programme start="20221209010000 +0800" stop="20221209013000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pastikan Sahih</title>
+  <desc lang="ms">Memaparkan berita yang menangkis berita palsu dan viral (Fake News).</desc>
+ </programme>
+ <programme start="20221209013000 +0800" stop="20221209020000 +0800" channel="7.rtmklik">
+  <title lang="ms">My Hawa</title>
+  <desc lang="ms">Bersama hos, Azzahra Ahmad mendalami pertubuhan bukan kerajaan (NGO) yang terlibat dalam menyediakan perkhidmatan sosial kepada kaum wanita di Malaysia.</desc>
+ </programme>
+ <programme start="20221209020000 +0800" stop="20221209023000 +0800" channel="7.rtmklik">
+  <title lang="ms">Bisikan Dari Kota Pusaka</title>
+  <desc lang="ms">Saksikan Bisikan Dari Kota Pusaka di Saluran Berita RTM.</desc>
+ </programme>
+ <programme start="20221209023000 +0800" stop="20221209030000 +0800" channel="7.rtmklik">
+  <title lang="ms">Solusi Lestari</title>
+  <desc lang="ms">Solusi Lestari adalah sebuah program yang memaparkan inovasi serta teknologi baharu yang diaplikasikan di Malaysia sebagai penyelesaian kepada ancaman masalah alam sekitar dan bencana.</desc>
+ </programme>
+ <programme start="20221209030000 +0800" stop="20221209033000 +0800" channel="7.rtmklik">
+  <title lang="ms">Etnik Kita</title>
+  <desc lang="ms">Mengenali kepelbagaian etnik di Malaysia yang unik dan menarik. </desc>
+ </programme>
+ <programme start="20221209033000 +0800" stop="20221209040000 +0800" channel="7.rtmklik">
+  <title lang="ms">Zoom In</title>
+  <desc lang="ms">Zoom In adalah merupakan dokumentari yang membawakan pembuatan barangan harian secara dekat.</desc>
+ </programme>
+ <programme start="20221209040000 +0800" stop="20221209043000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pantau</title>
+  <desc lang="ms">Ketahui dengan lanjut tentang teknologi telekomunikasi maklumat atau ancaman siber bersama Yusmal Ghazali.</desc>
+ </programme>
+ <programme start="20221209043000 +0800" stop="20221209053000 +0800" channel="7.rtmklik">
+  <title lang="ms">The Outlook</title>
+  <desc lang="ms">The Outlook brings you discussions of economics and its impact in the ever-changing World. Hosted by Shareeta Selvaraj.</desc>
+ </programme>
+ <programme start="20221209053000 +0800" stop="20221209060000 +0800" channel="7.rtmklik">
+  <title lang="ms">Travelog Dikir</title>
+  <desc lang="ms">Jom mengembara bersama Zul Afkar bersama kumpulan dikir beliau dalam mencari seni-seni tradisi yang terdapat di seluruh Malaysia.</desc>
+ </programme>
+ <programme start="20221209060000 +0800" stop="20221209063000 +0800" channel="7.rtmklik">
+  <title lang="ms">Mathnawi</title>
+  <desc lang="ms">Bersama hos Syafi’I M. Nasir, bersama pakar undangan membedah dan menyelami isi-isi kandungan kitab Melayu lama.</desc>
+ </programme>
+ <programme start="20221209063000 +0800" stop="20221209070000 +0800" channel="7.rtmklik">
+  <title lang="ms">Usrah Hikmah</title>
+  <desc lang="ms">Sebuah program yang menyampaikan mesej dalam bentuk sketsa untuk renungan bersama.</desc>
+ </programme>
+ <programme start="20221209070000 +0800" stop="20221209073000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara.
+</desc>
+ </programme>
+ <programme start="20221209073000 +0800" stop="20221209074500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi Sabah</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah
+</desc>
+ </programme>
+ <programme start="20221209074500 +0800" stop="20221209080000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi Sarawak</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sarawak
+</desc>
+ </programme>
+ <programme start="20221209080000 +0800" stop="20221209100000 +0800" channel="7.rtmklik">
+  <title lang="ms">Selamat Pagi Malaysia </title>
+  <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).
+</desc>
+ </programme>
+ <programme start="20221209100000 +0800" stop="20221209100500 +0800" channel="7.rtmklik">
+  <title lang="ms">Contynews</title>
+  <desc lang="ms">Saksikan berita sahih dari konti radio yang bersiaran secara langsung ke kaca TV anda melalui slot Conty News.</desc>
+ </programme>
+ <programme start="20221209100500 +0800" stop="20221209110000 +0800" channel="7.rtmklik">
+  <title lang="ms">Selamat Pagi Malaysia </title>
+  <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).
+</desc>
+ </programme>
+ <programme start="20221209110000 +0800" stop="20221209110500 +0800" channel="7.rtmklik">
+  <title lang="ms">Contynews</title>
+  <desc lang="ms">Saksikan berita sahih dari konti radio yang bersiaran secara langsung ke kaca TV anda melalui slot Conty News.</desc>
+ </programme>
+ <programme start="20221209110500 +0800" stop="20221209113000 +0800" channel="7.rtmklik">
+  <title lang="ms">Hello Suri</title>
+  <desc lang="ms">Saksikan Hello Suri, paparan mengenai minimalisme dan bagaiamana mengaplikasikannya bersama hos, Fizaz Frizzy.</desc>
+ </programme>
+ <programme start="20221209113000 +0800" stop="20221209120000 +0800" channel="7.rtmklik">
+  <title lang="ms">Jurnal Orang Rumah</title>
+  <desc lang="ms">Saksikan Jurnal Orang Rumah di Saluran Berita RTM.</desc>
+ </programme>
+ <programme start="20221209120000 +0800" stop="20221209122000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Mandarin</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.
+</desc>
+ </programme>
+ <programme start="20221209122000 +0800" stop="20221209123000 +0800" channel="7.rtmklik">
+  <title lang="ms">Galeri Nasional Mandarin</title>
+  <desc lang="ms">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.</desc>
+ </programme>
+ <programme start="20221209123000 +0800" stop="20221209130000 +0800" channel="7.rtmklik">
+  <title lang="ms">Updates@Noon</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris.
+</desc>
+ </programme>
+ <programme start="20221209130000 +0800" stop="20221209140000 +0800" channel="7.rtmklik">
+  <title lang="ms">Figura Akhir Zaman</title>
+  <desc lang="ms">Dokumentari Khas, Figura Akhir Zaman membawakan naratif perjalanan menuju ke Hari Akhirat bermula dengan tanda-tanda kecil sehingga terjadinya kiamat dengan memberi fokus kepada figura-figura penting pada akhir zaman ini.</desc>
+ </programme>
+ <programme start="20221209140000 +0800" stop="20221209141500 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Bajau</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Bajau.
+</desc>
+ </programme>
+ <programme start="20221209141500 +0800" stop="20221209143000 +0800" channel="7.rtmklik">
+  <title lang="ms">Ringgit &amp; Anda</title>
+  <desc lang="ms">Bersama pakar kewangan berdiskusi mengenai pelbagai kaedah dan tip membangunkan kedudukan kewangan yang selamat dalam setiap episod.</desc>
+ </programme>
+ <programme start="20221209143000 +0800" stop="20221209150000 +0800" channel="7.rtmklik">
+  <title lang="ms">Projek Filem</title>
+  <desc lang="ms">Tiga remaja berlainan bangsa mengembara ke seluruh untuk mencari bahan bagi menghasilkan dokumentari bina negara yang bertajuk &quot;Remaja Melihat Malaysia&quot;.</desc>
+ </programme>
+ <programme start="20221209150000 +0800" stop="20221209150500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Semasa</title>
+  <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.
+</desc>
+ </programme>
+ <programme start="20221209150500 +0800" stop="20221209153000 +0800" channel="7.rtmklik">
+  <title lang="ms">Biz Malaysia</title>
+  <desc lang="ms">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.
+</desc>
+ </programme>
+ <programme start="20221209153000 +0800" stop="20221209160000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pastikan Sahih</title>
+  <desc lang="ms">Memaparkan berita yang menangkis berita palsu dan viral (Fake News).</desc>
+ </programme>
+ <programme start="20221209160000 +0800" stop="20221209160500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Semasa</title>
+  <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.
+</desc>
+ </programme>
+ <programme start="20221209160500 +0800" stop="20221209170000 +0800" channel="7.rtmklik">
+  <title lang="ms">Lensa IPT</title>
+  <desc lang="ms">Program yang memaparkan perkembangan semasa dunia Institusi Pengajian Tinggi (IPT) di Malaysia.</desc>
+ </programme>
+ <programme start="20221209170000 +0800" stop="20221209180000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Wilayah</title>
+  <desc lang="ms">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.
+</desc>
+ </programme>
+ <programme start="20221209180000 +0800" stop="20221209183000 +0800" channel="7.rtmklik">
+  <title lang="ms">Satu Sentuhan</title>
+  <desc lang="ms">Saksikan kehebatan anak tempatan mengubahsuai pelbagai barangan terpakai dan terbuang kepada alatan berguna dalam kehidupan seharian.</desc>
+ </programme>
+ <programme start="20221209183000 +0800" stop="20221209184500 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Iban</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Iban.
+</desc>
+ </programme>
+ <programme start="20221209184500 +0800" stop="20221209190000 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Dusun</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.
+</desc>
+ </programme>
+ <programme start="20221209190000 +0800" stop="20221209193000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Mandarin</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.
+</desc>
+ </programme>
+ <programme start="20221209193000 +0800" stop="20221209200000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tamil </title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.
+</desc>
+ </programme>
+ <programme start="20221209200000 +0800" stop="20221209210000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Perdana</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.
+</desc>
+ </programme>
+ <programme start="20221209210000 +0800" stop="20221209220000 +0800" channel="7.rtmklik">
+  <title lang="ms">Lensa IPT</title>
+  <desc lang="ms">Bicarawara berkaitan institut pengajian tinggi (IPT) dan warga IPT.
+</desc>
+ </programme>
+ <programme start="20221209220000 +0800" stop="20221209223000 +0800" channel="7.rtmklik">
+  <title lang="ms">News@10</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris termasuk berita perniagaan dan korporat.
+</desc>
+ </programme>
+ <programme start="20221209223000 +0800" stop="20221209230000 +0800" channel="7.rtmklik">
+  <title lang="ms">Teknologi Nano</title>
+  <desc lang="ms">Teknologi Nano membawakan keguunaan terkini teknologi nano dalam peralatan seharian. Episod kali ini memaparkan penggunaan teknologi nano dalam penghasilan semikonduktor.</desc>
+ </programme>
+ <programme start="20221209230000 +0800" stop="20221209233000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Dunia</title>
+  <desc lang="ms">Memaparkan perkembangan berita luar negara.
+</desc>
+ </programme>
+ <programme start="20221209233000 +0800" stop="20221210000000 +0800" channel="7.rtmklik">
+  <title lang="ms">Artifak Bersuara</title>
+  <desc lang="ms">Artifak Bersuara membawakan kesan-kesan artifak lama yang mempunyai kisahnya yang tersendiri dalam lipatan sejarah di Malaysia. Episod kali ini bersama hos Aisyah Bujang melawat Muzium Diraja Kedah dan Balai Nobat serta melihat cara penghasilan tengkolok di Perak.</desc>
+ </programme>
+ <programme start="20221210000000 +0800" stop="20221210003000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tengah Malam</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara.
+</desc>
+ </programme>
+ <programme start="20221210003000 +0800" stop="20221210010000 +0800" channel="7.rtmklik">
+  <title lang="ms">Biz Malaysia</title>
+  <desc lang="ms">Memaparkan perkembangan berita ekonomi, korporat dan perniagaan serta laporan saham.</desc>
+ </programme>
+ <programme start="20221210010000 +0800" stop="20221210013000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pastikan Sahih</title>
+  <desc lang="ms">Memaparkan berita yang menangkis berita palsu dan viral (Fake News).</desc>
+ </programme>
+ <programme start="20221210013000 +0800" stop="20221210020000 +0800" channel="7.rtmklik">
+  <title lang="ms">Amazing Nano</title>
+  <desc lang="ms">Bersama hos, Amir Rahim membincangkan tentang perkembangan teknologi nano negara dalam pelbagai bidang.</desc>
+ </programme>
+ <programme start="20221210020000 +0800" stop="20221210023000 +0800" channel="7.rtmklik">
+  <title lang="ms">Bikin</title>
+  <desc lang="ms">Saksikan program menarik, Bikin di Saluran Berita RTM.</desc>
+ </programme>
+ <programme start="20221210023000 +0800" stop="20221210030000 +0800" channel="7.rtmklik">
+  <title lang="ms">My Hawa</title>
+  <desc lang="ms">Bersama hos, Azzahra Ahmad mendalami pertubuhan bukan kerajaan (NGO) yang terlibat dalam menyediakan perkhidmatan sosial kepada kaum wanita di Malaysia.</desc>
+ </programme>
+ <programme start="20221210030000 +0800" stop="20221210033000 +0800" channel="7.rtmklik">
+  <title lang="ms">Bisikan Dari Kota Pusaka</title>
+  <desc lang="ms">Saksikan Bisikan Dari Kota Pusaka di Saluran Berita RTM.</desc>
+ </programme>
+ <programme start="20221210033000 +0800" stop="20221210040000 +0800" channel="7.rtmklik">
+  <title lang="ms">Solusi Lestari</title>
+  <desc lang="ms">Solusi Lestari adalah sebuah program yang memaparkan inovasi serta teknologi baharu yang diaplikasikan di Malaysia sebagai penyelesaian kepada ancaman masalah alam sekitar dan bencana.</desc>
+ </programme>
+ <programme start="20221210040000 +0800" stop="20221210043000 +0800" channel="7.rtmklik">
+  <title lang="ms">Etnik Kita</title>
+  <desc lang="ms">Mengenali kepelbagaian etnik di Malaysia yang unik dan menarik. </desc>
+ </programme>
+ <programme start="20221210043000 +0800" stop="20221210053000 +0800" channel="7.rtmklik">
+  <title lang="ms">Townhall Belia</title>
+  <desc lang="ms">Townhall belia membawakan perbincangan topik-topik menarik di kalangan belia bersama perantara, Wan Kamaruddin.</desc>
+ </programme>
+ <programme start="20221210053000 +0800" stop="20221210060000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pantau</title>
+  <desc lang="ms">Ketahui dengan lanjut tentang teknologi telekomunikasi maklumat atau ancaman siber bersama Yusmal Ghazali.</desc>
+ </programme>
+ <programme start="20221210060000 +0800" stop="20221210063000 +0800" channel="7.rtmklik">
+  <title lang="ms">#KongsiKembaraku</title>
+  <desc lang="ms">Jom mengembara ke tempat-tempat menarik di sekitar lokasi pilihan dalam program #KongsiKembaraku.</desc>
+ </programme>
+ <programme start="20221210063000 +0800" stop="20221210070000 +0800" channel="7.rtmklik">
+  <title lang="ms">Dimensi Cergas</title>
+  <desc lang="ms">Dimensi Cergas episod ini memaparkan tentang senaman yang berkaitan Fitness &amp; Healthcare iaitu senaman gaya hidup sihat dan cergas.</desc>
+ </programme>
+ <programme start="20221210070000 +0800" stop="20221210073000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara.
+</desc>
+ </programme>
+ <programme start="20221210073000 +0800" stop="20221210074500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi Sabah</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah
+</desc>
+ </programme>
+ <programme start="20221210074500 +0800" stop="20221210080000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Pagi Sarawak</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sarawak
+</desc>
+ </programme>
+ <programme start="20221210080000 +0800" stop="20221210100000 +0800" channel="7.rtmklik">
+  <title lang="ms">Selamat Pagi Malaysia </title>
+  <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).
+</desc>
+ </programme>
+ <programme start="20221210100000 +0800" stop="20221210100500 +0800" channel="7.rtmklik">
+  <title lang="ms">Contynews</title>
+  <desc lang="ms">Saksikan berita sahih dari konti radio yang bersiaran secara langsung ke kaca TV anda melalui slot Conty News.</desc>
+ </programme>
+ <programme start="20221210100500 +0800" stop="20221210103000 +0800" channel="7.rtmklik">
+  <title lang="ms">Selamat Pagi Malaysia </title>
+  <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).
+</desc>
+ </programme>
+ <programme start="20221210103000 +0800" stop="20221210104500 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Kadazan</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Kadazan.
+</desc>
+ </programme>
+ <programme start="20221210104500 +0800" stop="20221210110000 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Iban</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Iban.
+</desc>
+ </programme>
+ <programme start="20221210110000 +0800" stop="20221210110500 +0800" channel="7.rtmklik">
+  <title lang="ms">Contynews</title>
+  <desc lang="ms">Saksikan berita sahih dari konti radio yang bersiaran secara langsung ke kaca TV anda melalui slot Conty News.</desc>
+ </programme>
+ <programme start="20221210110500 +0800" stop="20221210120000 +0800" channel="7.rtmklik">
+  <title lang="ms">Pesona XY</title>
+  <desc lang="ms">Bualbicara motivasi dan kekeluargaan mengetengahkan tokoh, ikon berjaya dalam pelbagai bidang yang menjadi sumber inspirasi kepada rakyat untuk menaikkan taraf hidup.
+</desc>
+ </programme>
+ <programme start="20221210120000 +0800" stop="20221210123000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Mandarin</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.
+</desc>
+ </programme>
+ <programme start="20221210123000 +0800" stop="20221210130000 +0800" channel="7.rtmklik">
+  <title lang="ms">Updates@Noon</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris.
+</desc>
+ </programme>
+ <programme start="20221210130000 +0800" stop="20221210133000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tengah Hari</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.
+</desc>
+ </programme>
+ <programme start="20221210133000 +0800" stop="20221210140000 +0800" channel="7.rtmklik">
+  <title lang="ms">Smart Parents</title>
+  <desc lang="ms">Sebuah rancangan motivasi TV yang akan membincangkan tentang tips ibubapa bijak anak hebat.</desc>
+ </programme>
+ <programme start="20221210140000 +0800" stop="20221210141500 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Bajau</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Bajau.
+</desc>
+ </programme>
+ <programme start="20221210141500 +0800" stop="20221210143000 +0800" channel="7.rtmklik">
+  <title lang="ms">#landskapbajet</title>
+  <desc lang="ms">#landskapbajet memaparkan pelbagai idea dan inspirasi landskap halaman rumath pada bajet yang rendah berserta inspirasi susunatur kepada penonton.</desc>
+ </programme>
+ <programme start="20221210143000 +0800" stop="20221210150000 +0800" channel="7.rtmklik">
+  <title lang="ms">Serbu</title>
+  <desc lang="ms">Serbu membawakan perbincangan mengenai peruntukan undang-undang yang dikuatkuasakan oleh pelbagai agensi di Malaysia bersama hos, Meor Addelan dan tetamu.</desc>
+ </programme>
+ <programme start="20221210150000 +0800" stop="20221210150500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Semasa</title>
+  <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.
+</desc>
+ </programme>
+ <programme start="20221210150500 +0800" stop="20221210160000 +0800" channel="7.rtmklik">
+  <title lang="ms">Vasantham</title>
+  <desc lang="ms">Sebuah program bicarawara yang membincangkan mengenai isu semasa berkaitan komuniti India tempatan.
+</desc>
+ </programme>
+ <programme start="20221210160000 +0800" stop="20221210160500 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Semasa</title>
+  <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.
+</desc>
+ </programme>
+ <programme start="20221210160500 +0800" stop="20221210170000 +0800" channel="7.rtmklik">
+  <title lang="ms">Bicara Gen Y</title>
+  <desc lang="ms">Bicara gen-y membawakan pelbagai topik perbincangan menarik bersama selebriti jemputan dan tetamu pakar. Dihoskan oleh Alif Satar.</desc>
+ </programme>
+ <programme start="20221210170000 +0800" stop="20221210180000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Wilayah</title>
+  <desc lang="ms">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.
+</desc>
+ </programme>
+ <programme start="20221210180000 +0800" stop="20221210183000 +0800" channel="7.rtmklik">
+  <title lang="ms">Anda Luar Biasa</title>
+  <desc lang="ms">Bukan mudah menjadi insan yang memberi inspirasi kepada orang lain. Anda Luar Biasa membawakan kisah jerih-perih insan yang berkecimpung dalam bidang NGO kebajikan di seluruh Malaysia.</desc>
+ </programme>
+ <programme start="20221210183000 +0800" stop="20221210184500 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Iban</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Iban.
+</desc>
+ </programme>
+ <programme start="20221210184500 +0800" stop="20221210190000 +0800" channel="7.rtmklik">
+  <title lang="ms">i-Dusun</title>
+  <desc lang="ms">Memaparkan perkembangan berita di Sabah dalam bahasa etnik Dusun.
+</desc>
+ </programme>
+ <programme start="20221210190000 +0800" stop="20221210193000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Mandarin</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.
+</desc>
+ </programme>
+ <programme start="20221210193000 +0800" stop="20221210200000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Tamil </title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.
+</desc>
+ </programme>
+ <programme start="20221210200000 +0800" stop="20221210210000 +0800" channel="7.rtmklik">
+  <title lang="ms">Berita Perdana</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.
+</desc>
+ </programme>
+ <programme start="20221210210000 +0800" stop="20221210220000 +0800" channel="7.rtmklik">
+  <title lang="ms">Talks to Terrence (LIVE)</title>
+  <desc lang="ms">Program bual bicara bahasa inggeris menarik untuk tontonan anda.</desc>
+ </programme>
+ <programme start="20221210220000 +0800" stop="20221210223000 +0800" channel="7.rtmklik">
+  <title lang="ms">News@10</title>
+  <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris termasuk berita perniagaan dan korporat.
+</desc>
+ </programme>
+ <programme start="20221210223000 +0800" stop="20221210230000 +0800" channel="7.rtmklik">
+  <title lang="ms">Bual Konti</title>
+  <desc lang="ms">Bual bicara secara lansung tentang isu-isu semasa dari konti radio.</desc>
+ </programme>
+ <programme start="20221210230000 +0800" stop="20221210233000 +0800" channel="7.rtmklik">
+  <title lang="ms">Jauhari</title>
+  <desc lang="ms">Hanya jauhari mengenal manikam. Jauhari membawakan cerita tentang pencarian, pembentukan dan penilaian batu-batu berharga yang terdapat di pasaran.</desc>
+ </programme>
+ <programme start="20221210233000 +0800" stop="20221211000000 +0800" channel="7.rtmklik">
+  <title lang="ms">Serbu</title>
+  <desc lang="ms">Serbu membawakan perbincangan mengenai peruntukan undang-undang yang dikuatkuasakan oleh pelbagai agensi di Malaysia bersama hos, Meor Addelan dan tetamu.</desc>
+ </programme>
+ <programme start="20221207120000 +0800" stop="20221207140000 +0800" channel="8.rtmklik">
+  <title lang="ms">Selendang Seri</title>
+  <desc lang="ms">Kisah Seri seorang guru tari yang tinggal bersama Pak Sunya dan sering hidup dalam kerisauan kerana hutang Ah Long. Lakonan Lisdawaty, Fezrul Khan, Wan Suhaimi dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221207140000 +0800" stop="20221207150000 +0800" channel="8.rtmklik">
+  <title lang="ms">Katsarin</title>
+  <desc lang="ms">Mengisahkan tentang kehidupan kekeluargaan, cabaran dan dugaan yang perlu dilalui demi sebuah cinta dan kasih sayang. Lakonan Farah Puteri, Qazeem Noor, Aman Graseka dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221207150000 +0800" stop="20221207160000 +0800" channel="8.rtmklik">
+  <title lang="ms">Janji Diana</title>
+  <desc lang="ms">Diana seorang gadis yang meningkat dewasa dan suka memberontak. Lakonan Aaron Aziz, Sheera Iskandar, Diana Danielle dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221207160000 +0800" stop="20221207170000 +0800" channel="8.rtmklik">
+  <title lang="ms">Istimewa Bersama</title>
+  <desc lang="ms">Berhibur bersama artis terkenal tanah air, Kumpulan Spider dan barisan artis jemputan lainnya serta untuk tontonan seisi keluarga.</desc>
+ </programme>
+ <programme start="20221207170000 +0800" stop="20221207180000 +0800" channel="8.rtmklik">
+  <title lang="ms">DMI : Penjara Hati</title>
+  <desc lang="ms">Kisah Adam yang terpaksa melayani kehendak orang tuanya. Lakonan N.D Lala, Sharifah Muhammad, Zainal TJ dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221207180000 +0800" stop="20221207183000 +0800" channel="8.rtmklik">
+  <title lang="ms">Jari Seni</title>
+  <desc lang="ms">Sebuah rancangan yang berkongsi keunikan dan kemegahan ekspresi seni tempatan yang perlu dijaga dan dijulang.</desc>
+ </programme>
+ <programme start="20221207183000 +0800" stop="20221207193000 +0800" channel="8.rtmklik">
+  <title lang="ms">Opah</title>
+  <desc lang="ms">Mengisahkan kehidupan Opah bersama anak, menantu dan cucu dalam mengharungi kehidupan dengan masyarakat sekeliling.</desc>
+ </programme>
+ <programme start="20221207193000 +0800" stop="20221207200000 +0800" channel="8.rtmklik">
+  <title lang="ms">Andai Itu Takdirnya</title>
+  <desc lang="ms">Sebuah rancangan berkonsepkan Sains Perubatan yang memaparkan maklumat terkini tentang kecacatan, punca-punca kecacatan, dan cara untuk mencegah kecacatan. Dihoskan oleh Jehan Miskin.</desc>
+ </programme>
+ <programme start="20221207200000 +0800" stop="20221207203000 +0800" channel="8.rtmklik">
+  <title lang="ms">Wadi Rahmah</title>
+  <desc lang="ms">Kisah konflik sekumpulan anak muda yang menerajui projek ternakan cacing yang dianggap menggelikan. Mereka cuba merubah persepsi masyarakat dan membuka syarikat Wadi Rahmah Industri Sdn Bhd yang mengusahakan projek tersebut. Lakonan Faizal Yusup, Ayu Raudhah, Fadilah Mansor dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221207203000 +0800" stop="20221207210000 +0800" channel="8.rtmklik">
+  <title lang="ms">Nostalgia</title>
+  <desc lang="ms">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dlm kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+ </programme>
+ <programme start="20221207210000 +0800" stop="20221207230000 +0800" channel="8.rtmklik">
+  <title lang="ms">Titian Kabur</title>
+  <desc lang="ms">Pelbagai konflik kehidupan yang berawalan daripada sikap seorang kakak yang suka mengatur kehidupan ahli keluarganya. Lakonan Rozita Che Wan, Normah Damanhuri, Afzhan A. Rahman dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221207230000 +0800" stop="20221208000000 +0800" channel="8.rtmklik">
+  <title lang="ms">Gegar Sezaman</title>
+  <desc lang="ms">Hiburan muzikal gabungan lagu-lagu baharu dan lama. Bersama pengacara Intan dan Fazly.</desc>
+ </programme>
+ <programme start="20221208000000 +0800" stop="20221208010000 +0800" channel="8.rtmklik">
+  <title lang="ms">Waris</title>
+  <desc lang="ms">Kisah Ari yang tinggal bersama Mak Longnya di Ampang. Namun kehadirannya di situ tidak disenangi penduduk kampung. Lakonan Zahiril Adzim, Nas T, Linda Hashim dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221208010000 +0800" stop="20221208020000 +0800" channel="8.rtmklik">
+  <title lang="ms">Hiburan Minggu Ini</title>
+  <desc lang="ms">Saksikan persembahan istimewa dan dendangan lagu-lagu malar segar daripada barisan artis popular.</desc>
+ </programme>
+ <programme start="20221208020000 +0800" stop="20221208060000 +0800" channel="8.rtmklik">
+  <title lang="ms">Tamat Siaran</title>
+  <desc lang="ms">Siaran tamat.</desc>
+ </programme>
+ <programme start="20221208060000 +0800" stop="20221208060200 +0800" channel="8.rtmklik">
+  <title lang="ms">Surah Al Fatihah</title>
+  <desc lang="ms">Memaparkan promo PSA dan bacaan ayat suci Al-Quran serta Doa Munajat.</desc>
+ </programme>
+ <programme start="20221208060200 +0800" stop="20221208070000 +0800" channel="8.rtmklik">
+  <title lang="ms">Opah</title>
+  <desc lang="ms">Mengisahkan kehidupan Opah bersama anak, menantu dan cucu dalam mengharungi kehidupan dengan masyarakat sekeliling.</desc>
+ </programme>
+ <programme start="20221208070000 +0800" stop="20221208080000 +0800" channel="8.rtmklik">
+  <title lang="ms">Gegar Sezaman</title>
+  <desc lang="ms">Hiburan muzikal gabungan lagu-lagu baharu dan lama. Bersama pengacara Intan dan Fazly.</desc>
+ </programme>
+ <programme start="20221208080000 +0800" stop="20221208090000 +0800" channel="8.rtmklik">
+  <title lang="ms">Waris</title>
+  <desc lang="ms">Kisah Ari yang tinggal bersama Mak Longnya di Ampang. Namun kehadirannya di situ tidak disenangi penduduk kampung. Lakonan Zahiril Adzim, Nas T, Linda Hashim dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221208090000 +0800" stop="20221208100000 +0800" channel="8.rtmklik">
+  <title lang="ms">Hiburan Minggu Ini</title>
+  <desc lang="ms">Berhibur dengan rangkaian lagu-lagu popular Rahimah Rahim bersama barisan artis jemputan lainnya.</desc>
+ </programme>
+ <programme start="20221208100000 +0800" stop="20221208103000 +0800" channel="8.rtmklik">
+  <title lang="ms">Dunia Wanita</title>
+  <desc lang="ms">Bersama pengacara Umie Aida dan Erra Fazira yang akan berkongsi pelbagai topik menarik yang berkaitan dengan dunia wanita.</desc>
+ </programme>
+ <programme start="20221208103000 +0800" stop="20221208113000 +0800" channel="8.rtmklik">
+  <title lang="ms">Milik Siapakah Hati Ini</title>
+  <desc lang="ms">Mengisahkan tentang konflik percintaan, keluarga dan masyarakat.</desc>
+ </programme>
+ <programme start="20221208113000 +0800" stop="20221208120000 +0800" channel="8.rtmklik">
+  <title lang="ms">Around Malaysia In 13 Weeks</title>
+  <desc lang="ms">Bersama pengacara Yew Han dan tetamu jemputannya, menjelajah ke seluruh negeri di Malaysia sambil melihat pelbagai keunikan yang ada.</desc>
+ </programme>
+ <programme start="20221208120000 +0800" stop="20221208140000 +0800" channel="8.rtmklik">
+  <title lang="ms">'A' Untuk Abah</title>
+  <desc lang="ms">Fahmi seorang ayah yang tegas mahukan anaknya berjaya dalam peperiksaan. Namun anaknya tidak mendapat apa yang Fahmi impikan dan akhirnya lari dari rumah.</desc>
+ </programme>
+ <programme start="20221208140000 +0800" stop="20221208150000 +0800" channel="8.rtmklik">
+  <title lang="ms">Katsarin</title>
+  <desc lang="ms">Mengisahkan tentang kehidupan kekeluargaan, cabaran dan dugaan yang perlu dilalui demi sebuah cinta dan kasih sayang. Lakonan Farah Puteri, Qazeem Noor, Aman Graseka dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221208150000 +0800" stop="20221208160000 +0800" channel="8.rtmklik">
+  <title lang="ms">Janji Diana</title>
+  <desc lang="ms">Diana seorang gadis yang meningkat dewasa dan suka memberontak. Lakonan Aaron Aziz, Sheera Iskandar, Diana Danielle dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221208160000 +0800" stop="20221208170000 +0800" channel="8.rtmklik">
+  <title lang="ms">Istimewa Bersama</title>
+  <desc lang="ms">Hiburan santai dengan lagu-lagu popularkan legenda hebat tanah air, Nora.</desc>
+ </programme>
+ <programme start="20221208170000 +0800" stop="20221208180000 +0800" channel="8.rtmklik">
+  <title lang="ms">DMI : Upih Pinang Seludang Kelapa</title>
+  <desc lang="ms">Mengisahkan konflik kehidupan dalam keluarga dan masyarakat. Lakonan Rosnah Johari, Khairul Azhar, Ebby Saifullah dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221208180000 +0800" stop="20221208183000 +0800" channel="8.rtmklik">
+  <title lang="ms">Jari Seni</title>
+  <desc lang="ms">Sebuah rancangan yang berkongsi keunikan dan kemegahan ekspresi seni tempatan yang perlu dijaga dan dijulang.</desc>
+ </programme>
+ <programme start="20221208183000 +0800" stop="20221208193000 +0800" channel="8.rtmklik">
+  <title lang="ms">Opah</title>
+  <desc lang="ms">Mengisahkan kehidupan Opah bersama anak, menantu dan cucu dalam mengharungi kehidupan dengan masyarakat sekeliling.</desc>
+ </programme>
+ <programme start="20221208193000 +0800" stop="20221208200000 +0800" channel="8.rtmklik">
+  <title lang="ms">Andai Itu Takdirnya</title>
+  <desc lang="ms">Sebuah rancangan berkonsepkan Sains Perubatan yang memaparkan maklumat terkini tentang kecacatan, punca-punca kecacatan, dan cara untuk mencegah kecacatan. Dihoskan oleh Jehan Miskin.</desc>
+ </programme>
+ <programme start="20221208200000 +0800" stop="20221208203000 +0800" channel="8.rtmklik">
+  <title lang="ms">Wadi Rahmah</title>
+  <desc lang="ms">Kisah konflik sekumpulan anak muda yang menerajui projek ternakan cacing yang dianggap menggelikan. Mereka cuba merubah persepsi masyarakat dan membuka syarikat Wadi Rahmah Industri Sdn Bhd yang mengusahakan projek tersebut. Lakonan Faizal Yusup, Ayu Raudhah, Fadilah Mansor dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221208203000 +0800" stop="20221208210000 +0800" channel="8.rtmklik">
+  <title lang="ms">Nostalgia</title>
+  <desc lang="ms">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dlm kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+ </programme>
+ <programme start="20221208210000 +0800" stop="20221208230000 +0800" channel="8.rtmklik">
+  <title lang="ms">Di Garisan Takdir</title>
+  <desc lang="ms">Farish seorang pengedar dadah akhirnya berjaya ditangkap oleh Kamal yang juga merupakan kawannya sendiri. Di penjara, tanpa diduga Farish telah bertemu dengan ayah kandungnya yang lama terpisah. Lakonan Fezrol Khan, Emelda Rosmila, Ezany dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221208230000 +0800" stop="20221209000000 +0800" channel="8.rtmklik">
+  <title lang="ms">Gegar Sezaman</title>
+  <desc lang="ms">Hiburan muzikal gabungan lagu-lagu baharu dan lama. Bersama pengacara Intan dan Fazly.</desc>
+ </programme>
+ <programme start="20221209000000 +0800" stop="20221209010000 +0800" channel="8.rtmklik">
+  <title lang="ms">Waris</title>
+  <desc lang="ms">Kisah Ari yang tinggal bersama Mak Longnya di Ampang. Namun kehadirannya di situ tidak disenangi penduduk kampung. Lakonan Zahiril Adzim, Nas T, Linda Hashim dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221209010000 +0800" stop="20221209020000 +0800" channel="8.rtmklik">
+  <title lang="ms">Hiburan Minggu Ini</title>
+  <desc lang="ms">Berhibur dengan rangkaian lagu-lagu popular Rahimah Rahim bersama barisan artis jemputan lainnya.</desc>
+ </programme>
+ <programme start="20221209020000 +0800" stop="20221209060000 +0800" channel="8.rtmklik">
+  <title lang="ms">Tamat Siaran</title>
+  <desc lang="ms">Siaran tamat.</desc>
+ </programme>
+ <programme start="20221209060000 +0800" stop="20221209060200 +0800" channel="8.rtmklik">
+  <title lang="ms">Surah Al Fatihah</title>
+  <desc lang="ms">Memaparkan promo PSA dan bacaan ayat suci Al-Quran serta Doa Munajat.</desc>
+ </programme>
+ <programme start="20221209060200 +0800" stop="20221209070000 +0800" channel="8.rtmklik">
+  <title lang="ms">Opah</title>
+  <desc lang="ms">Mengisahkan kehidupan Opah bersama anak, menantu dan cucu dalam mengharungi kehidupan dengan masyarakat sekeliling.</desc>
+ </programme>
+ <programme start="20221209070000 +0800" stop="20221209080000 +0800" channel="8.rtmklik">
+  <title lang="ms">Gegar Sezaman</title>
+  <desc lang="ms">Hiburan muzikal gabungan lagu-lagu baharu dan lama. Bersama pengacara Intan dan Fazly.</desc>
+ </programme>
+ <programme start="20221209080000 +0800" stop="20221209090000 +0800" channel="8.rtmklik">
+  <title lang="ms">Waris</title>
+  <desc lang="ms">Kisah Ari yang tinggal bersama Mak Longnya di Ampang. Namun kehadirannya di situ tidak disenangi penduduk kampung. Lakonan Zahiril Adzim, Nas T, Linda Hashim dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221209090000 +0800" stop="20221209100000 +0800" channel="8.rtmklik">
+  <title lang="ms">Hiburan Minggu Ini</title>
+  <desc lang="ms">Berhibur dengan rangkaian lagu-lagu popular Shah Reza &amp; Uji Rashid bersama barisan artis jemputan lainnya.</desc>
+ </programme>
+ <programme start="20221209100000 +0800" stop="20221209103000 +0800" channel="8.rtmklik">
+  <title lang="ms">Dunia Wanita</title>
+  <desc lang="ms">Bersama pengacara Umie Aida dan Erra Fazira yang akan berkongsi pelbagai topik menarik yang berkaitan dengan dunia wanita.</desc>
+ </programme>
+ <programme start="20221209103000 +0800" stop="20221209113000 +0800" channel="8.rtmklik">
+  <title lang="ms">Milik Siapakah Hati Ini</title>
+  <desc lang="ms">Mengisahkan tentang konflik percintaan, keluarga dan masyarakat.</desc>
+ </programme>
+ <programme start="20221209113000 +0800" stop="20221209120000 +0800" channel="8.rtmklik">
+  <title lang="ms">Around Malaysia In 13 Weeks</title>
+  <desc lang="ms">Bersama pengacara Yew Han dan tetamu jemputannya, menjelajah ke seluruh negeri di Malaysia sambil melihat pelbagai keunikan yang ada.</desc>
+ </programme>
+ <programme start="20221209120000 +0800" stop="20221209140000 +0800" channel="8.rtmklik">
+  <title lang="ms">Bagasi</title>
+  <desc lang="ms">Kisah yang memaparkan cinta dan kasih sayang serta restu orang tua dalam sesebuah perhubungan.</desc>
+ </programme>
+ <programme start="20221209140000 +0800" stop="20221209150000 +0800" channel="8.rtmklik">
+  <title lang="ms">Katsarin</title>
+  <desc lang="ms">Mengisahkan tentang kehidupan kekeluargaan, cabaran dan dugaan yang perlu dilalui demi sebuah cinta dan kasih sayang. Lakonan Farah Puteri, Qazeem Noor, Aman Graseka dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221209150000 +0800" stop="20221209160000 +0800" channel="8.rtmklik">
+  <title lang="ms">Janji Diana</title>
+  <desc lang="ms">Diana seorang gadis yang meningkat dewasa dan suka memberontak. Lakonan Aaron Aziz, Sheera Iskandar, Diana Danielle dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221209160000 +0800" stop="20221209170000 +0800" channel="8.rtmklik">
+  <title lang="ms">Istimewa Bersama</title>
+  <desc lang="ms">Saksikan persembahan hebat Kumpulan Exists serta barisan artis jemputan lainnya.</desc>
+ </programme>
+ <programme start="20221209170000 +0800" stop="20221209180000 +0800" channel="8.rtmklik">
+  <title lang="ms">DMI : Penunggu Ajal</title>
+  <desc lang="ms">Kisah Bujang pembuat batu nisan yang tersepit dalam pelbagai konflik hidup. Lakonan Razali Buyong, Wan Maimunah, Hassan Ahmad dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221209180000 +0800" stop="20221209183000 +0800" channel="8.rtmklik">
+  <title lang="ms">Jari Seni</title>
+  <desc lang="ms">Sebuah rancangan yang berkongsi keunikan dan kemegahan ekspresi seni tempatan yang perlu dijaga dan dijulang.</desc>
+ </programme>
+ <programme start="20221209183000 +0800" stop="20221209193000 +0800" channel="8.rtmklik">
+  <title lang="ms">Opah</title>
+  <desc lang="ms">Mengisahkan kehidupan Opah bersama anak, menantu dan cucu dalam mengharungi kehidupan dengan masyarakat sekeliling.</desc>
+ </programme>
+ <programme start="20221209193000 +0800" stop="20221209200000 +0800" channel="8.rtmklik">
+  <title lang="ms">Andai Itu Takdirnya</title>
+  <desc lang="ms">Sebuah rancangan berkonsepkan Sains Perubatan yang memaparkan maklumat terkini tentang kecacatan, punca-punca kecacatan, dan cara untuk mencegah kecacatan. Dihoskan oleh Jehan Miskin.</desc>
+ </programme>
+ <programme start="20221209200000 +0800" stop="20221209203000 +0800" channel="8.rtmklik">
+  <title lang="ms">Wadi Rahmah</title>
+  <desc lang="ms">Kisah konflik sekumpulan anak muda yang menerajui projek ternakan cacing yang dianggap menggelikan. Mereka cuba merubah persepsi masyarakat dan membuka syarikat Wadi Rahmah Industri Sdn Bhd yang mengusahakan projek tersebut. Lakonan Faizal Yusup, Ayu Raudhah, Fadilah Mansor dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221209203000 +0800" stop="20221209210000 +0800" channel="8.rtmklik">
+  <title lang="ms">Nostalgia</title>
+  <desc lang="ms">Rancangan yang akan mengimbau kembali hal - hal yang sering kita lakukan atau sering ada dlm kehidupan kita yang akan mengingatkan kita dengan masa lalu.</desc>
+ </programme>
+ <programme start="20221209210000 +0800" stop="20221209230000 +0800" channel="8.rtmklik">
+  <title lang="ms">Ajak</title>
+  <desc lang="ms">Kisah Ajak seorang pesakit mental yang amat meminati pelakon bernama Jusmeira. Suatu hari Jusmeira dan pasukan produksi telah mengadakan penggambaran di rumah Ajak. Lakonan Joey Daud, Kaza, Rashidah Jaafar dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221209230000 +0800" stop="20221210000000 +0800" channel="8.rtmklik">
+  <title lang="ms">Gegar Sezaman</title>
+  <desc lang="ms">Hiburan muzikal gabungan lagu-lagu baharu dan lama. Bersama pengacara Intan dan Fazly.</desc>
+ </programme>
+ <programme start="20221210000000 +0800" stop="20221210010000 +0800" channel="8.rtmklik">
+  <title lang="ms">Waris</title>
+  <desc lang="ms">Kisah Ari yang tinggal bersama Mak Longnya di Ampang. Namun kehadirannya di situ tidak disenangi penduduk kampung. Lakonan Zahiril Adzim, Nas T, Linda Hashim dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221210010000 +0800" stop="20221210020000 +0800" channel="8.rtmklik">
+  <title lang="ms">Hiburan Minggu Ini</title>
+  <desc lang="ms">Berhibur dengan rangkaian lagu-lagu popular Shah Reza &amp; Uji Rashid bersama barisan artis jemputan lainnya.</desc>
+ </programme>
+ <programme start="20221210020000 +0800" stop="20221210060000 +0800" channel="8.rtmklik">
+  <title lang="ms">Tamat Siaran</title>
+  <desc lang="ms">Siaran tamat.</desc>
+ </programme>
+ <programme start="20221210060000 +0800" stop="20221210060200 +0800" channel="8.rtmklik">
+  <title lang="ms">Surah Al Fatihah</title>
+  <desc lang="ms">Memaparkan promo PSA dan bacaan ayat suci Al-Quran serta Doa Munajat.</desc>
+ </programme>
+ <programme start="20221210060200 +0800" stop="20221210063000 +0800" channel="8.rtmklik">
+  <title lang="ms">Enak Tradisi</title>
+  <desc lang="ms">Bersama Chef Anis Nabilah yang akan menjelajah ke serata negeri untuk melihat dan mempelajari sendiri masakan tradisional masyarakat tempatan.</desc>
+ </programme>
+ <programme start="20221210063000 +0800" stop="20221210070000 +0800" channel="8.rtmklik">
+  <title lang="ms">Around Malaysia In 13 Weeks</title>
+  <desc lang="ms">Bersama pengacara Yew Han dan tetamu jemputannya, menjelajah ke seluruh negeri di Malaysia sambil melihat pelbagai keunikan yang ada.</desc>
+ </programme>
+ <programme start="20221210070000 +0800" stop="20221210090000 +0800" channel="8.rtmklik">
+  <title lang="ms">Kasih Alam</title>
+  <desc lang="ms">Kehidupan yang berpegang kepada darjat dan harta. Namun cinta, kasih dan sayang sahaja yang boleh merubah segalanya.</desc>
+ </programme>
+ <programme start="20221210090000 +0800" stop="20221210093000 +0800" channel="8.rtmklik">
+  <title lang="ms">Eksplorasi Gunung</title>
+  <desc lang="ms">Meneroka khazanah alam menerusi pendakian gunung yang ada di Malaysia. Pelbagai cabaran lasak yang terpaksa ditempuhi, yang pastinya menarik.</desc>
+ </programme>
+ <programme start="20221210093000 +0800" stop="20221210103000 +0800" channel="8.rtmklik">
+  <title lang="ms">Roh Naterah</title>
+  <desc lang="ms">Kisah perjuangan Naterah dalam menginspirasikan sebuah kehidupan untuk anaknya. Lakonan Nadia Mustafa, Nurul Elfira, Wan Norazlin dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221210103000 +0800" stop="20221210123000 +0800" channel="8.rtmklik">
+  <title lang="ms">Kemboja Di Ladang Duka</title>
+  <desc lang="ms">Kehidupan Imran terbelenggu dengan konflik antara isteri dan ibunya. Kedua mereka saling tidak menyukai antara satu sama lain. Lakonan Liza Othman, Irfan Roslan, Aida Aris dan ramai lag</desc>
+ </programme>
+ <programme start="20221210123000 +0800" stop="20221210133000 +0800" channel="8.rtmklik">
+  <title lang="ms">Pelari</title>
+  <desc lang="ms">Perjuangan seorang anak muda yang berusaha dan berkorban demi mengharumkan nama negara sebagai seorang pelari. Lakonan Khalid Salleh, Ahmad Busu, Mariani Ismail dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221210133000 +0800" stop="20221210140000 +0800" channel="8.rtmklik">
+  <title lang="ms">Dendang Kenyalang</title>
+  <desc lang="ms">Selain berhibur dengan lagu-lagu tempatan Negeri Sarawak, turut dipaparkan lokasi menarik yang sering menjadi tumpuan pelancong di negeri Bumi Kenyalang bersama pengacara Bob Yusof.</desc>
+ </programme>
+ <programme start="20221210140000 +0800" stop="20221210143000 +0800" channel="8.rtmklik">
+  <title lang="ms">Bicara Aur Dengan Tebing 2</title>
+  <desc lang="ms">Mengisahkan cerita kehidupan dan kekeluargaan. Lakonan Jasmin Hamid, Lisdawati, Arash Mohd dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221210143000 +0800" stop="20221210150000 +0800" channel="8.rtmklik">
+  <title lang="ms">Dari Kuala Ke Kuala</title>
+  <desc lang="ms">Dokumentari sejarah dan artifak serta nadi kehidupan masyarakat setempat.</desc>
+ </programme>
+ <programme start="20221210150000 +0800" stop="20221210170000 +0800" channel="8.rtmklik">
+  <title lang="ms">Saka Dalang Lemel</title>
+  <desc lang="ms">Merungkaikan segala permasalahan khurafat yang dikaitkan dengan permainan wayang kulit. Pelakon Zulkefli, Ery Putra, Razali Buyong dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221210170000 +0800" stop="20221210180000 +0800" channel="8.rtmklik">
+  <title lang="ms">Gala 2</title>
+  <desc lang="ms">Rancangan yang menyajikan pelbagaikan hiburan menarik untuk tontonan ramai.</desc>
+ </programme>
+ <programme start="20221210180000 +0800" stop="20221210183000 +0800" channel="8.rtmklik">
+  <title lang="ms">4 Sekawan</title>
+  <desc lang="ms">Drama sebuah keluarga berbangsa Cina dalam kehidupan masyarakat setempat.</desc>
+ </programme>
+ <programme start="20221210183000 +0800" stop="20221210203000 +0800" channel="8.rtmklik">
+  <title lang="ms">Loklak</title>
+  <desc lang="ms">Diana melarikan diri dari kampung menuju ke Kuala Lumpur, kerana tidak bersetuju dengan ibu tirinya yang mahukan Diana berkahwin dengan Hanif. Lakonan Johan, Siti Fazurina, Liza Abdullah dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221210203000 +0800" stop="20221210210000 +0800" channel="8.rtmklik">
+  <title lang="ms">Angin Rindu Sarajevo</title>
+  <desc lang="ms">Kisah gadis Bosnia Herzegovina dari pedalaman Bandar Visoko, sebuah daerah yang terpencil daripada kesibukan kota. Lakonan Sharifah Sofea, Beego, Aziz Singah, Linda Hashim dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221210210000 +0800" stop="20221210230000 +0800" channel="8.rtmklik">
+  <title lang="ms">Wetan</title>
+  <desc lang="ms">Sekumpulan penduduk asing telah datang ke Kampung Jawa untuk menetap sementara. Tetapi sebenarnya mereka ada agenda iaitu untuk mengambil alih harta pusaka penduduk kampung. Lakonan Jalil Hamid, Jamali Shadat, Watie dan ramai lagi.</desc>
+ </programme>
+ <programme start="20221210230000 +0800" stop="20221211003000 +0800" channel="8.rtmklik">
+  <title lang="ms">Zoom In Bersama</title>
+  <desc lang="ms">Berhibur dengan rangkaian lagu-lagu yang pastinya menggamit kenangan oleh legenda tanah air, Aishah.</desc>
+ </programme>
+</tv>
