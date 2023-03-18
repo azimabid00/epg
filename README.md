@@ -1,8 +1,8 @@
 # THIS EPG IS NOT FOR SALE !
 
 File URL :</br>
-Astro: <a href="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" target="_blank">Click Here</a></br>
-Unifi: <a href="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" target="_blank">Click Here</a></br>
+Astro: <a href="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml">Click Here</a></br>
+Unifi: <a href="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml">Click Here</a></br>
 
 EPG for Malaysian channels. Feel free to use it.
 
