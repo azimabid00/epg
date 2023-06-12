@@ -21,6 +21,6 @@ Example:
   - TV2 : 102.unifi
   and so on....
   
-For channel numbers can refer here: </br>
-  - Astro : https://content.astro.com.my/ </br>
-  - Unifi : Can google / refer to the XML file.
+Channel numbers for respective provider can be obtained from : </br>
+  - Astro : <a href="https://content.astro.com.my">Here</a></br>
+  - Unifi : <a href="https://unifi.com.my/tv/offerings/channels">Here</a> or <a href="https://en.wikipedia.org/wiki/Unifi_TV">Here</a></br>
